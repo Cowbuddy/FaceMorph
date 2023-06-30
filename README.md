@@ -12,8 +12,6 @@ This project aims to demonstrate face morphing using Python and the OpenCV libra
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
 
 ## Installation
 
