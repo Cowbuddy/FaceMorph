@@ -51,7 +51,7 @@ To use this repository, follow the steps below:
 
 2. Execute each code block within the notebook in sequential order. You can run a code block by clicking on it and then pressing Shift+Enter or by using the "Run" button in the toolbar. Running the code blocks in order ensures that the necessary functions and variables are defined and used correctly.
 
-3. If you want to change the input images, you can add your own images to the inputs folder. The provided sample images in the folder are there for you to quickly test the code.
+3. If you want to change the input images, you can add your own images to the inputs folder. The provided sample images in the folder are there for you to quickly try out the code. (Outputs are also provided!)
 
 4. The output images will be saved in a folder within the outputs directory. This folder will contain the morphed images and also the images with Delaunay triangles graphed on them.
 
